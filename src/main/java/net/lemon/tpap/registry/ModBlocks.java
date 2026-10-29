@@ -68,20 +68,20 @@ public class ModBlocks {
     public static final RegistryObject<StatueBlock> PULMONOSCORPIUS_KIRKTONENSIS = registerStatue("pulmonoscorpius_kirktonensis", "pulmonoscorpius", 5, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> DIMETRODON_GRANDIS = registerStatue("dimetrodon_grandis", "dimetrodon", 7, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> DUNKLEOSTEUS_TERRELLI = registerStatue("dunkleosteus_terrelli", "dunkleosteus", 6, true, MoldSize.MEDIUM);
-    public static final RegistryObject<StatueBlock> HOMOSTEUS_FORMOSISSIMUS = registerStatue("homosteus_formosissimus", "dunkleosteus", 5, true, MoldSize.MEDIUM);
+    public static final RegistryObject<StatueBlock> HOMOSTEUS_FORMOSISSIMUS = registerStatue("homosteus_formosissimus", "homosteus", 5, true, MoldSize.MEDIUM);
     public static final RegistryObject<StatueBlock> CHERNINIA_DENWAI = registerStatue("cherninia_denwai", "cherninia", 5, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> AMBULOCETUS_NATANS = registerStatue("ambulocetus_natans", "ambulocetus", 5, true, MoldSize.MEDIUM);
     public static final RegistryObject<StatueBlock> DACTYLIOCERAS_COMMUNE = registerStatue("dactylioceras_commune", "dactylioceras", 4, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> ALLODESMUS_DEMEREI = registerStatue("allodesmus_demerei", "allodesmus", 7, true, MoldSize.MEDIUM);
     public static final RegistryObject<StatueBlock> GIRAFFA_JUMAE = registerStatue("giraffa_jumae", "giraffa", 5, true, MoldSize.LARGE);
-    public static final RegistryObject<StatueBlock> CERVALCES_SCOTTI = registerStatue("cervalces_scotti", "giraffa", 6, true, MoldSize.MEDIUM);
+    public static final RegistryObject<StatueBlock> CERVALCES_SCOTTI = registerStatue("cervalces_scotti", "cervalces", 6, true, MoldSize.MEDIUM);
     public static final RegistryObject<StatueBlock> INOSTRANCEVIA_ALEXANDRI = registerStatue("inostrancevia_alexandri", "inostrancevia", 6, true, MoldSize.MEDIUM);
     public static final RegistryObject<StatueBlock> MEGANEURA_MONYI = registerStatue("meganeura_monyi", "meganeura", 6, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> ALIERASAURUS_RONCHII = registerStatue("alierasaurus_ronchii", "alierasaurus", 6, true, MoldSize.LARGE);
     public static final RegistryObject<StatueBlock> PHOLIDERPETON_ATTHEYI = registerStatue("pholiderpeton_attheyi", "pholiderpeton", 8, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> TULLIMONSTRUM_GREGARIUM = registerStatue("tullimonstrum_gregarium", "tullimonstrum", 5, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> HIPPOPOTAMUS_GORGOPS = registerStatue("hippopotamus_gorgops", "hippopotamus", 7, true, MoldSize.LARGE);
-    public static final RegistryObject<StatueBlock> PROTELES_CRISTATUS = registerStatue("proteles_cristatus", "proteles", 13, true, MoldSize.SMALL);
+    public static final RegistryObject<StatueBlock> PROTELES_SEPTENTRIONALIS = registerStatue("proteles_septentrionalis", "proteles", 13, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> EOREDLICHIA_INTERMEDIA = registerStatue("eoredlichia_intermedia", "eoredlichia", 6, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> MEGALODON_SP = registerStatue("megalodon_sp", "megalodon", 4, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> CANADASPIS_PERFECTA = registerStatue("canadaspis_perfecta", "canadaspis", 4, true, MoldSize.SMALL);
@@ -90,9 +90,12 @@ public class ModBlocks {
     public static final RegistryObject<StatueBlock> TAPIRUS_CALIFORNICUS = registerStatue("tapirus_californicus", "tapirus", 6, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> RAJASAURUS_NARMADENSIS = registerStatue("rajasaurus_narmadensis", "rajasaurus", 8, true, MoldSize.MEDIUM);
     public static final RegistryObject<StatueBlock> KARIRIDRACO_DIANAE = registerStatue("kariridraco_dianae", "kariridraco", 7, true, MoldSize.SMALL);
-    public static final RegistryObject<StatueBlock> QUETZALCOATLUS_NORTHROPI = registerStatue("quetzalcoatlus_northropi", "quetzalcoatlus", 8, true, MoldSize.HUGE);
+    public static final RegistryObject<StatueBlock> QUETZALCOATLUS_NORTHROPI = registerStatue("quetzalcoatlus_northropi", "quetzalcoatlus", 14, true, MoldSize.HUGE);
     public static final RegistryObject<StatueBlock> POSTOSUCHUS_KIRKPATRICKI = registerStatue("postosuchus_kirkpatricki", "postosuchus", 6, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> ETJOSUCHUS_RECURVIDENS = registerStatue("etjosuchus_recurvidens", "etjosuchus", 5, true, MoldSize.MEDIUM);
+    public static final RegistryObject<StatueBlock> APATOSAURUS_LOUISAE = registerStatue("apatosaurus_louisae", "apatosaurus", 19, true, MoldSize.HUGE);
+    public static final RegistryObject<StatueBlock> STEGOSAURUS_STENOPS = registerStatue("stegosaurus_stenops", "stegosaurus", 18, true, MoldSize.LARGE);
+    public static final RegistryObject<StatueBlock> CONCAVENATOR_CORCOVATUS = registerStatue("concavenator_corcovatus", "concavenator", 24, true, MoldSize.MEDIUM);
 
 
 

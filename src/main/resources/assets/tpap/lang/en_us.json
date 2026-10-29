@@ -46,7 +46,7 @@
   "block.tpap.pholiderpeton_attheyi": "Pholiderpeton attheyi Statue",
   "block.tpap.tullimonstrum_gregarium": "Tullimonstrum gregarium Statue",
   "block.tpap.hippopotamus_gorgops": "Hippopotamus gorgops Statue",
-  "block.tpap.proteles_cristatus": "Proteles cristatus \"East African Aardwolf\" Statue",
+  "block.tpap.proteles_septentrionalis": "Proteles septentrionalis \"East African Aardwolf\" Statue",
   "block.tpap.eoredlichia_intermedia": "Eoredlichia intermedia Statue",
   "block.tpap.megalodon_sp": "Megalodon sp. Statue",
   "block.tpap.canadaspis_perfecta": "Canadaspis perfecta Statue",
@@ -54,10 +54,13 @@
   "block.tpap.bison_latifrons": "Bison latifrons Statue",
   "block.tpap.tapirus_californicus": "Tapirus californicus Statue",
   "block.tpap.rajasaurus_narmadensis": "Rajasaurus narmadensis Statue",
-  "block.tpap.kariridraco_dianae": "Kariridrac dianae Statue",
+  "block.tpap.kariridraco_dianae": "Kariridraco dianae Statue",
   "block.tpap.quetzalcoatlus_northropi": "Quetzalcoatlus northropi Statue",
   "block.tpap.postosuchus_kirkpatricki": "Postosuchus kirkpatricki Statue",
   "block.tpap.etjosuchus_recurvidens": "Etjosuchus recurvidens Statue",
+  "block.tpap.apatosaurus_louisae": "Apatosaurus louisae Statue",
+  "block.tpap.stegosaurus_stenops": "Stegosaurus stenops Statue",
+  "block.tpap.concavenator_corcovatus": "Concavenator corcovatus Statue",
 
 
 
@@ -128,6 +131,8 @@
   "genus.tpap.quetzalcoatlus": "Quetzalcoatlus",
   "genus.tpap.postosuchus": "Postosuchus",
   "genus.tpap.etjosuchus": "Etjosuchus",
+  "genus.tpap.apatosaurus": "Apatosaurus",
+  "genus.tpap.concavenator": "Concavenator",
 
 
 
