@@ -96,6 +96,7 @@ public class ModBlocks {
     public static final RegistryObject<StatueBlock> APATOSAURUS_LOUISAE = registerStatue("apatosaurus_louisae", "apatosaurus", 19, true, MoldSize.HUGE);
     public static final RegistryObject<StatueBlock> STEGOSAURUS_STENOPS = registerStatue("stegosaurus_stenops", "stegosaurus", 18, true, MoldSize.LARGE);
     public static final RegistryObject<StatueBlock> CONCAVENATOR_CORCOVATUS = registerStatue("concavenator_corcovatus", "concavenator", 24, true, MoldSize.MEDIUM);
+    public static final RegistryObject<StatueBlock> JONKERIA_TRUCULENTA = registerStatue("jonkeria_truculenta", "jonkeria", 9, true, MoldSize.LARGE);
 
 
 
