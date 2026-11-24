@@ -111,6 +111,10 @@ public class ModBlocks {
     public static final RegistryObject<StatueBlock> ODOCOILEUS_VIRGINIANUS_MALE = registerStatue("odocoileus_virginianus_male", "odocoileus", 7, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> ODOCOILEUS_VIRGINIANUS_FEMALE = registerStatue("odocoileus_virginianus_female", "odocoileus", 7, true, MoldSize.SMALL);
     public static final RegistryObject<StatueBlock> DIPLOCAULUS_MAGNICORNIS = registerStatue("diplocaulus_magnicornis", "diplocaulus", 7, true, MoldSize.SMALL);
+    public static final RegistryObject<StatueBlock> EQUUS_OCCIDENTALIS = registerStatue("equus_occidentalis", "equus", 15, true, MoldSize.SMALL);
+    public static final RegistryObject<StatueBlock> MAIP_MACROTHORAX = registerStatue("maip_macrothorax", "maip", 21, true, MoldSize.LARGE);
+    public static final RegistryObject<StatueBlock> SHRINGASAURUS_INDICUS_FEMALE = registerStatue("shringasaurus_indicus_female", "shringasaurus", 11, true, MoldSize.SMALL);
+    public static final RegistryObject<StatueBlock> SHRINGASAURUS_INDICUS_MALE = registerStatue("shringasaurus_indicus_male", "shringasaurus", 11, true, MoldSize.SMALL);
 
 
     public static final RegistryObject<SculptorsStationBlock> SCULPTORS_STATION = BLOCKS.register("sculptors_station",

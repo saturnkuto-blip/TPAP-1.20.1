@@ -75,7 +75,11 @@
   "block.tpap.beelzebufo_ampinga": "Beelzebufo ampinga Statue",
   "block.tpap.arctodus_simus": "Arctodus simus Statue",
   "block.tpap.corvus_corax": "Corvus corax \"Common Raven\" Statue",
-  "block.tpap.vivaxosaurus_trautscholdi": "Vivaxosaurus trautscholdi Statue",
+  "block.tpap.shringasaurus_indicus_female": "Shringasaurus indicus (Female) Statue",
+  "block.tpap.shringasaurus_indicus_male": "Shringasaurus indicus (Male) Statue",
+  "block.tpap.maip_macrothorax": "Maip macrothorax Statue",
+  "block.tpap.equus_occidentalis": "Equus occidentalis \"Western Horse\" Statue",
+
 
 
 
@@ -160,7 +164,9 @@
   "genus.tpap.arctodus": "Arctodus",
   "genus.tpap.corvus": "Corvus",
   "genus.tpap.vivaxosaurus": "Vivaxosaurus",
-
+  "genus.tpap.shringasaurus": "Shringasaurus",
+  "genus.tpap.equus": "Equus",
+  "genus.tpap.maip": "Maip",
 
 
   "moldsize.tpap.small": "Small",
